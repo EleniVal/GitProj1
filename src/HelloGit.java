@@ -1,5 +1,7 @@
 public class HelloGit {
     public static void main(String[] args) {
-        System.out.println("Hello cf!!");
-    }
+
+        System.out.println("Hello coding factory!!!");
+>>>>>>> eugenia
+    
 }
